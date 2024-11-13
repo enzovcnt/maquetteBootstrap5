@@ -16,3 +16,9 @@
     background-color: darkgrey;
     border-radius: 5px;
 }
+.note{
+    height: vh;
+}
+.php{
+    background-color: darkgrey;
+}
