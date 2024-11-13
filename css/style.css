@@ -10,15 +10,20 @@
 }
 .formulaire{
     background-color: darkgrey;
-    height: 30vh;
+    height: 35vh;
 }
 .role{
     background-color: darkgrey;
     border-radius: 5px;
 }
-.note{
-    height: vh;
-}
 .php{
     background-color: darkgrey;
+}
+.texte{
+    background-color: darkgrey;
+}
+.boutond{
+    background-color: darkgrey;
+    height: 7vh;
+    border: none;
 }
